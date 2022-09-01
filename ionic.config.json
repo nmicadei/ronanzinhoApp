@@ -1,0 +1,7 @@
+{
+  "name": "ronanzinhoApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
